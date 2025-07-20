@@ -1,11 +1,15 @@
 <h1 align="center">Olá, eu sou o Michel Paulina! 👋</h1>
 
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7c3aed&center=true&vCenter=true&width=435&lines=Michel+Paulina+Isanza+Bakinu;Desenvolvedora+Mobile">
+</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  Desenvolvedor Mobile apaixonado por criar aplicativos com interfaces funcionais, intuitivas e que realmente entregam valor. <br/>
+  Desenvolvedora Mobile apaixonado por criar aplicativos com interfaces funcionais, intuitivas e que realmente entregam valor. <br/>
   Gosto de transformar ideias em experiências digitais. 🚀
 </p>
 
