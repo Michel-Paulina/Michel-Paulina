@@ -20,11 +20,11 @@
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias
 
 <div align="center">
 
-  <h3>🚀 Tecnologias que utilizo</h3>
+  <h3>🚀 Tecnologias</h3>
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" style="border-radius: 50%; margin: 0 10px;" />
@@ -32,7 +32,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" width="60" style="border-radius: 50%; margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" style="border-radius: 50%; margin: 0 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" style="border-radius: 50%; margin: 0 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Expo_Icon.svg" height="60" width="60" style="border-radius: 50%; margin: 0 10px;" />
   </p>
 
 </div>
@@ -73,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F76B3C&center=true&vCenter=true&width=435&lines=Desenvolvedor+Mobile+em+evolução;Code.+Aprenda.+Repita.;Orgulho+em+criar+com+tecnologia!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7c3aed&center=true&vCenter=true&width=435&lines=Michel+Paulina;Desenvolvedora+Mobile;Code.+Aprenda.+Repita.;Orgulho+em+criar+com+tecnologia!" />
 </p>
 
 <p align="center">Feito com 💻 por <strong color="#7c3aed">Michel Paulina</strong></p>
