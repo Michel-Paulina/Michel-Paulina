@@ -21,15 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Michel-Paulina&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Paulina&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
