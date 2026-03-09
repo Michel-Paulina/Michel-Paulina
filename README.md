@@ -16,7 +16,7 @@
 
 - 💼 **Desenvolvimento Mobile**: React Native, JavaScript, Firebase, Integração de APIs  
 - 🛠️ **Ferramentas & Tecnologias**: Expo Go, Firebase Console, GitHub, Android Studio, Figma, VS Code  
-- 🧠 **Conhecimentos Adicionais**: React.js, TypeScript, Node.js, Express.js, Next.js  
+- 🧠 **Conhecimentos Adicionais**: React.js, TypeScript, Node.js, Next.js  
 - 🌱 Atualmente explorando: UI/UX, boas práticas de design e escalabilidade
 
 ---
